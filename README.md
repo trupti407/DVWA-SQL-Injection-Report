@@ -121,3 +121,15 @@ To prevent SQL Injection:
 This project was performed in a controlled lab environment 
 for educational and learning purposes only.
 
+## Internship Project
+
+This project was developed as part of my Cybersecurity Internship at **Cryptonic Area** under the domain of Cybersecurity & Ethical Hacking.
+
+Through this project, I gained practical experience in:
+- Web application vulnerabilities
+- SQL Injection testing
+- Understanding insecure coding practices
+- Secure development concepts
+
+This hands-on project helped me understand real-world security threats and mitigation techniques.
+
