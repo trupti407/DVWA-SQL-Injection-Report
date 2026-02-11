@@ -91,7 +91,7 @@ Payload Used:
 
 1' OR '1'='1
 
-![SQL Injection Result](screenshots/4_sql_injection_multiple_users.png)
+![SQL Injection Result](2_sql_injection_multiple_users.png)
 
 
 ---
