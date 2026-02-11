@@ -75,13 +75,24 @@ This proves the application is vulnerable to SQL Injection.
 
 ---
 
-## 📸 Screenshots
+## 🖥️ Screenshots
 
+### 1️⃣ DVWA Login Page
+![DVWA Login Page](screenshots/1_dvwa_login_page.png)
 
+### 2️⃣ SQL Injection Vulnerability Page
+![SQL Injection Page](screenshots/2_sql_injection_page.png)
 
-- Normal input result
-- SQL Injection payload result
-- DVWA SQL Injection page
+### 3️⃣ Normal Query Result (ID = 1)
+![Normal Query](screenshots/3_normal_query_result.png)
+
+### 4️⃣ SQL Injection Result (Multiple Users Retrieved)
+Payload Used:
+
+1' OR '1'='1
+
+![SQL Injection Result](screenshots/4_sql_injection_multiple_users.png)
+
 
 ---
 
