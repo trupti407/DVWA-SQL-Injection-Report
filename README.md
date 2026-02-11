@@ -78,7 +78,7 @@ This proves the application is vulnerable to SQL Injection.
 ## 🖥️ Screenshots
 
 ### 1️⃣ DVWA Login Page
-![DVWA Login Page](screenshots/1_dvwa_login_page.png)
+![DVWA Login Page](1_dvwa_login_page.png)
 
 ### 2️⃣ SQL Injection Vulnerability Page
 ![SQL Injection Page](screenshots/2_sql_injection_page.png)
