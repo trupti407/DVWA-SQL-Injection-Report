@@ -42,8 +42,6 @@ This can lead to serious data breaches.
 
 ---
 
----
-
 ## 🔬 Research & Testing Methodology
 
 - Testing Type: Manual Testing
@@ -52,6 +50,7 @@ This can lead to serious data breaches.
 - Attack Method: Input manipulation
 - No automated exploitation tools were used
 
+---
 
 ## 🧪 Proof of Concept (PoC)
 
@@ -96,6 +95,9 @@ This proves the application is vulnerable to SQL Injection.
 
 Reason:
 The vulnerability allows attackers to extract entire database records without authentication control.
+
+---
+---
 
 
 ## 🖥️ Screenshots
@@ -143,6 +145,8 @@ To prevent SQL Injection:
 
 This project was performed in a controlled lab environment 
 for educational and learning purposes only.
+
+---
 
 ## 🏢 Internship Context
 
