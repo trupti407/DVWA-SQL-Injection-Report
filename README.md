@@ -42,6 +42,17 @@ This can lead to serious data breaches.
 
 ---
 
+---
+
+## 🔬 Research & Testing Methodology
+
+- Testing Type: Manual Testing
+- Environment: Localhost (XAMPP)
+- DVWA Security Level: Low
+- Attack Method: Input manipulation
+- No automated exploitation tools were used
+
+
 ## 🧪 Proof of Concept (PoC)
 
 ### Step 1:
@@ -74,6 +85,18 @@ Result: All user records are displayed.
 This proves the application is vulnerable to SQL Injection.
 
 ---
+---
+
+## 📊 Risk & Severity Classification
+
+- Vulnerability Type: SQL Injection
+- Severity Level: High
+- Risk Impact: Unauthorized data access
+- OWASP Category: Injection (OWASP Top 10)
+
+Reason:
+The vulnerability allows attackers to extract entire database records without authentication control.
+
 
 ## 🖥️ Screenshots
 
@@ -121,15 +144,16 @@ To prevent SQL Injection:
 This project was performed in a controlled lab environment 
 for educational and learning purposes only.
 
-## Internship Project
+## 🏢 Internship Context
 
-This project was developed as part of my Cybersecurity Internship at **Cryptonic Area** under the domain of Cybersecurity & Ethical Hacking.
+This project was completed as part of my Cybersecurity Internship at Cryptonic Area.
 
-Through this project, I gained practical experience in:
-- Web application vulnerabilities
-- SQL Injection testing
-- Understanding insecure coding practices
-- Secure development concepts
+The objective was to develop a security researcher mindset by:
+- Identifying vulnerabilities
+- Analyzing risk & impact
+- Creating proof-of-concept documentation
+- Suggesting remediation strategies
 
-This hands-on project helped me understand real-world security threats and mitigation techniques.
+This project strengthened my understanding of both offensive and defensive security concepts.
+
 
