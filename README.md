@@ -29,7 +29,7 @@ before sending it to the database.
 
 ---
 
-## 💥 Impact (Simple Explanation)
+## 💥 Impact (Explanation)
 
 If exploited by an attacker:
 
@@ -84,7 +84,7 @@ Result: All user records are displayed.
 This proves the application is vulnerable to SQL Injection.
 
 ---
----
+
 
 ## 📊 Risk & Severity Classification
 
@@ -97,10 +97,11 @@ Reason:
 The vulnerability allows attackers to extract entire database records without authentication control.
 
 ---
----
+
 
 
 ## 🖥️ Screenshots
+
 
 ### 1️⃣ DVWA Login Page
 ![DVWA Login Page](1_dvwa_login_page.png)
@@ -134,9 +135,9 @@ To prevent SQL Injection:
 
 ## 🏷 Tools Used
 
-- DVWA (Damn Vulnerable Web Application)
-- XAMPP (Apache + MySQL)
-- PHP
+- DVWA (Damn Vulnerable Web Application)-Vulnerable Web Application for Security Testing.
+- XAMPP (Apache + MySQL)– Local Web Server Environment.
+- PHP-Server-side scripting.
 - Localhost Environment
 
 ---
